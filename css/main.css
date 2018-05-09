@@ -12,7 +12,7 @@ p{
 }
 
 a {
-    color: #aa0a5f;
+    color: #4b2e83;
 }
 
 a, a:hover, a:focus{
@@ -133,8 +133,8 @@ section p {
 }
 
 .left-nav ul li a:hover, .left-nav ul li .current {
-    background-color: #f5204b;
-    color: #fff;
+    background-color: #4b2e83;
+    color: #e8e3d3;
 }
 
 
